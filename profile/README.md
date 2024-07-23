@@ -14,23 +14,23 @@ explore and conquer, and importantly: fireworks.
 
 <table align="center">
     <tr>
-        <th width="300px">Game</th>
-        <th>Brief</th>
-    </tr>
-    <tr>
-        <td>
-            <img src="https://github.com/user-attachments/assets/9c89fca0-9b3f-4820-983f-395a711bce83"/>
+        <td width="300px">
+            <img src="https://github.com/user-attachments/assets/9c89fca0-9b3f-4820-983f-395a711bce83" height="auto"/>
         </td>
         <td>
-            <p>
-                Project Vulcan is an experiment of JToH-style tower games, with refined lens for storytelling,
-                gameplay, and exploration, an early alpha set to be released near early 2025.
-            </p>
-            <p>
-                Succeeding from the Potentially Fire Pillars and the Total Fire Towers pair, it takes place
-                in a Caelum 40 years later, set ablaze by a superflare.
-            </p>
-            <a href="https://discord.gg/cv4HgDkQxb">Announcements Discord ↗</a>
+          <b>Project Vulcan</b>
+          <br/>
+          <a href="https://discord.gg/cv4HgDkQxb">Announcements Discord ↗</a>
+          <br/>
+          <br/>
+          <p>
+              Project Vulcan is an experiment of JToH-style tower games, with refined lens for storytelling,
+              gameplay, and exploration, an early alpha set to be released near early 2025.
+          </p>
+          <p>
+              Succeeding from the Potentially Fire Pillars and the Total Fire Towers pair, it takes place
+              in a Caelum 40 years later, set ablaze by a superflare.
+          </p>
         </td>
     </tr>
 </table>
@@ -43,12 +43,21 @@ href="https://luau-lang.org/">Luau</a>, free for you to use.
 
 <table align="center">
     <tr>
-        <th width="300px">Library</th>
-        <th>Brief</th>
-    </tr>
-    <tr>
-        <td/>
+        <td width="300px">
+          <div align="center">
+            <a href="https://github.com/team-fireworks/hotfusion">
+              <img src="https://raw.githubusercontent.com/team-fireworks/.github/main/profile/assets/lib-hotfusion.svg" width="150px">
+            </a>
+          </div>
+        </td>
         <td>
+            <b>Hotfusion</b>
+            <br/>
+            <a href="https://github.com/team-fireworks/hotfusion">GitHub ↗</a> ·
+            <a href="https://www.npmjs.com/package/@rbxts/hotfusion">NPM ↗</a> ·
+            <a href="https://wally.run/package/znotfireman/hotfusion">Wally ↗</a>
+          <br/>
+          <br/>
             <p>
               It's the <a href="https://github.com/dphfox/Fusion">Fusion reactive state library</a>, done at 150 million
               degrees Celsius and a lethal amount of thorium.
@@ -57,9 +66,6 @@ href="https://luau-lang.org/">Luau</a>, free for you to use.
               First to have comprehensive <a href="https://roblox-ts.com/">TypeScript</a> declarations for Fusion 0.3, full JSX
               support, and a bevy of useful utilities.
             </p>
-            <a href="https://github.com/team-fireworks/hotfusion">GitHub ↗</a> |
-            <a href="https://www.npmjs.com/package/@rbxts/hotfusion">NPM ↗</a> |
-            <a href="https://wally.run/package/znotfireman/hotfusion">Wally ↗</a>
         </td>
     </tr>
 </table>
