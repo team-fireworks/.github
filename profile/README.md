@@ -6,9 +6,7 @@
   <h1>We are Team Fireworks!</h1>
 </div>
 
-Team Fireworks is an indie Roblox game development studio, based mostly around
-Southeast Asia. Our mission is to create offbeat, radical worlds for you to
-explore and conquer, and importantly: fireworks.
+We are a group of friends making forbidden incantations of Roblox games for fun. Based mostly around Southeast Asia. Our mission is to create offbeat, radical worlds for you to explore and conquer, and importantly: fireworks.
 
 ## Our Games
 
