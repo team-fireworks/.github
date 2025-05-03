@@ -8,7 +8,7 @@ Based mostly around Southeast Asia. Team Fireworks hopes to bring offbeat, radic
 ## Our Works
 
 <div>
-  <img alt="Welcome To Hell" src="https://github.com/user-attachments/assets/1a9d1144-e5d3-4b7a-88f6-9ee3b962f88c" width="400" align="left" />
+  <img alt="Welcome To Hell" src="https://github.com/user-attachments/assets/1a9d1144-e5d3-4b7a-88f6-9ee3b962f88c" width="350px" align="left" />
   <h3 align="left">
     Welcome To Hell
     <br/>
