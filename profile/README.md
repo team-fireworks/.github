@@ -8,7 +8,7 @@ Based mostly around Southeast Asia. Team Fireworks hopes to bring offbeat, radic
 ## Our Works
 
 <div>
-  <img alt="Welcome To Hell" src="https://github.com/user-attachments/assets/1a9d1144-e5d3-4b7a-88f6-9ee3b962f88c" width="350px" align="left" />
+  <img alt="Welcome To Hell" src="https://github.com/user-attachments/assets/1a9d1144-e5d3-4b7a-88f6-9ee3b962f88c" width="400px" align="left" />
   <h3 align="left">
     Welcome To Hell
     <br/>
@@ -31,10 +31,6 @@ Based mostly around Southeast Asia. Team Fireworks hopes to bring offbeat, radic
     Welcome To Hell is not a traditional EToH fangame.<br/>
     Welcome To Hell experiments with the rawest parts of EToH,<br/>
     building onto it to create something worth commending.<br/>
-  </p>
-
-  <p>
-    Demo 1 aimed to release around September 2025.
   </p>
 </div>
 
