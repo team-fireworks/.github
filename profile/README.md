@@ -1,69 +1,103 @@
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/team-fireworks/.github/main/profile/assets/full-color.svg?token=GHSAT0AAAAAACSIRLW3LGT7GTDX3CK6NOIAZU7OJ3A"
-    width="384px"
-  />
-  <h1>We are Team Fireworks!</h1>
+# Team Fireworks
+
+Established by ImNotFireMan123 since 2024. We are a group of friends making forbidden incantations of Roblox games for fun.
+Based mostly around Southeast Asia. Team Fireworks hopes to bring offbeat, radical worlds for you to explore and conquer.
+
+
+
+## Our Works
+
+<div>
+  <img alt="Welcome To Hell" src="https://github.com/user-attachments/assets/1a9d1144-e5d3-4b7a-88f6-9ee3b962f88c" width="512px" align="left" />
+  <h3 align="left">
+    Welcome To Hell
+    <br/>
+    <sub>
+      2024-2025
+      <br/>
+      <sub>
+        previously known as Project Vulcan/Total Fire Towers/Potentially Fire Pillars
+      </sub>
+    </sub>
+  </h3>
+  <p>
+    Welcome To Hell is a narrative-driven obby game <br/>
+    that blends the challenging gameplay of Eternal Towers of Hell <br/>
+    with surreal psychological horror inspired by OMORI <br/>
+    and atmospheres akin to Interstellar.
+  </p>
+  
+  <p>
+    Welcome To Hell is not a traditional EToH fangame.<br/>
+    Welcome To Hell experiments with the rawest parts of EToH,<br/>
+    building onto it to create something worth commending.<br/>
+  </p>
+
+  <p>
+    Demo 1 aimed to release around September 2025.
+  </p>
 </div>
 
-We are a group of friends making forbidden incantations of Roblox games for fun. Based mostly around Southeast Asia. Our mission is to create offbeat, radical worlds for you to explore and conquer, and importantly: fireworks.
+<br/>
 
-## Our Games
+<div>
+  <img alt="Aet" src="https://raw.githubusercontent.com/team-fireworks/aet/refs/heads/main/assets/images/commandPalette.png" width="512px" align="right" />
+  <h3 align="left">
+    <img alt="Aet" src="https://raw.githubusercontent.com/team-fireworks/aet/refs/heads/main/assets/images/aet.png" height="100px" />
+    <br/>
+    <sub>
+      2024-2025
+      <br/>
+      <sub>
+        <a href="https://github.com/team-fireworks/aet">GitHub</a> <br/>
+        <a href="https://discord.com/channels/551741409624064011/1340324214212923575">Thread in EToH Discord</a>
+      </sub>
+    </sub>
+  </h3>
+  <p>
+    Essential tower building utilities for Eternal Tower of Hell packaged in an extendable command launcher.<br/>
+    Fast, ergonomic, and built for the next decade.
+  </p>
+</div>
 
-<table align="center">
-    <tr>
-        <td width="300px">
-            <img src="https://github.com/user-attachments/assets/9c89fca0-9b3f-4820-983f-395a711bce83" height="auto"/>
-        </td>
-        <td>
-          <b>Project Vulcan</b>
-          <br/>
-          <a href="https://discord.gg/cv4HgDkQxb">Announcements Discord ↗</a>
-          <br/>
-          <br/>
-          <p>
-              Project Vulcan is an experiment of JToH-style tower games, with refined lens for storytelling,
-              gameplay, and exploration, an early alpha set to be released near early 2025.
-          </p>
-          <p>
-              Succeeding from the Potentially Fire Pillars and the Total Fire Towers pair, it takes place
-              in a Caelum 40 years later, set ablaze by a superflare.
-          </p>
-        </td>
-    </tr>
-</table>
+<br/>
 
-## Our Libraries
+## Open Source Works
 
-We've open sourced a couple of packages used in our games, both for <a
-href="https://roblox-ts.com/">TypeScript</a> and <a
-href="https://luau-lang.org/">Luau</a>, free for you to use.
+<h3>
+  <img alt="Prvd 'M Wrong" src="https://raw.githubusercontent.com/prvdmwrong/prvdmwrong/main/docs/assets/wordmark-dark.svg" height="50px" />
+  <br/>
+  <sub>
+    2024-2025
+    <br/>
+    <sub>
+      <a href="https://github.com/prvdmwrong">GitHub</a> <br/>
+    </sub>
+  </sub>
+</h3>
+<p>
+  Prvd 'M Wrong is a Roblox game framework built with modern standards delivering type-safe APIs, dependency resolution, and unparalleled DX. Zero bloat, plugins, or lock-in required.
+</p>
+<p>
+  Currently on hold for other projects.
+</p>
 
-<table align="center">
-    <tr>
-        <td width="300px">
-          <div align="center">
-            <a href="https://github.com/team-fireworks/hotfusion">
-              <img src="https://raw.githubusercontent.com/team-fireworks/.github/main/profile/assets/lib-hotfusion.svg" width="150px">
-            </a>
-          </div>
-        </td>
-        <td>
-            <b>Hotfusion</b>
-            <br/>
-            <a href="https://github.com/team-fireworks/hotfusion">GitHub ↗</a> ·
-            <a href="https://www.npmjs.com/package/@rbxts/hotfusion">NPM ↗</a> ·
-            <a href="https://wally.run/package/znotfireman/hotfusion">Wally ↗</a>
-          <br/>
-          <br/>
-            <p>
-              It's the <a href="https://github.com/dphfox/Fusion">Fusion reactive state library</a>, done at 150 million
-              degrees Celsius and a lethal amount of thorium.
-            </p>
-            <p>
-              First to have comprehensive <a href="https://roblox-ts.com/">TypeScript</a> declarations for Fusion 0.3, full JSX
-              support, and a bevy of useful utilities.
-            </p>
-        </td>
-    </tr>
-</table>
+<h3>
+  Thorium
+  <br/>
+  <sub>
+    2025
+    <br/>
+    <sub>
+      <a href="https://github.com/team-fireworks/thorium">GitHub</a> <br/>
+    </sub>
+  </sub>
+</h3>
+<p>
+  Thorium is an experimental framework for Eternal Towers of Hell omniplace fangames.
+  Customizable with numerous builder patterns, and outward-facing APIs.
+  Eextensible with numerous interfaces and hooks. 
+  Type safe Luau and TypeScript APIs.
+  Built on state-of-the-art Roblox open source software.
+  Supports Eternal Towers of Hell v6 and v5 kits, but you can implement your own.
+</p>
