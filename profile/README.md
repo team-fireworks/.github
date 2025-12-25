@@ -61,7 +61,11 @@ Based mostly around Southeast Asia. Team Fireworks hopes to bring offbeat, radic
 ## Open Source Works
 
 <h3>
-  <img alt="Prvd 'M Wrong" src="https://raw.githubusercontent.com/prvdmwrong/prvdmwrong/main/docs/assets/wordmark-dark.svg" height="50px" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prvdmwrong/prvdmwrong/main/gh-assets/wordmark-dark.svg" height="50px">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prvdmwrong/prvdmwrong/main/gh-assets/wordmark-light.svg" height="50px">
+    <img alt="Prvd 'M Wrong" src="https://raw.githubusercontent.com/prvdmwrong/prvdmwrong/main/gh-assets/wordmark-light.svg" height="50px">
+  </picture>
   <br/>
   <sub>
     2024-2025
